@@ -9,4 +9,4 @@ Apaixonado por tecnologias, pela vida, viagens e comida.
 
 
 
-![Linkedin Badge](https://img.shields.io/badge/-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-domingues-2a315659/](https://www.linkedin.com/in/diego-schell-fernandes/)
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Domingues-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-domingues-2a315659/)](https://www.linkedin.com/in/guilherme-domingues-2a315659/) 
