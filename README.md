@@ -7,7 +7,6 @@ Apaixonado por tecnologias, pela vida, viagens e comida.
 
 📍 São Paulo 🇧🇷
 👨🏽‍💻 O menino do TI 
-https://media.giphy.com/media/ay0UsYoyGqDpJVMLui/giphy.gif
 
 
 
