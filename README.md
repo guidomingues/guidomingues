@@ -2,7 +2,7 @@
 
 Don't stop until you're proud
 
-Hi! Sou Guilherme Domingues, brasileiro, formado em Sistema de Informação. Estou me formando para ser um desenvolvedor full-stack. 
+Hi! Sou Guilherme Domingues, brasileiro, formado em Sistema de Informação, cursando Análise de Desenvolvimento de Sistema, desenvolvedor web java full-stack.
 Apaixonado por tecnologias, pela vida, viagens e comida. 
 
 📍 São Paulo 🇧🇷
