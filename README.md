@@ -2,8 +2,12 @@
 
 Don't stop until you're proud
 
-Hi! Sou Guilherme Domingues, brasileiro, formado em Sistema de Informação, cursando Análise de Desenvolvimento de Sistema, desenvolvedor web java full-stack.
-Apaixonado por tecnologias, pela vida, viagens e comida. 
+Hi! I'm Guilherme Domingues, brazilian. 
+Graduated in Information Systems, back-end analyst and passionate about good development practices, always trying to leave the cleanest place you've found.
+
+
+
+
 
 📍 São Paulo 🇧🇷
 👨🏽‍💻 O menino do TI 
